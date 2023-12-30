@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <samp>Hello <br> I'm <a href="#">Rich D</a><br> Just try and have a little patience.</samp>
+  <samp>It's me <a href="#">Rich D</a>.<br> Just try and have a little patience.</samp>
   <br>
   <br>
   <br>
@@ -10,4 +10,3 @@
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50">
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
 </p>
-
