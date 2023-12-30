@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm <a href="https://selimdoyranli.com">Selim</a>.<br> I'm a UI Developer from Istanbul.<br><br>#javascript, #nuxtjs, #vuejs, #atomicdesign</samp>
+  <samp>Hello there. I'm <a href="#">Rich D</a>.<br> I'm UI Developer from Indonesia.<br><br>#javascript, #nuxtjs, #vuejs, #atomicdesign</samp>
   <br>
   <br>
   <br>
